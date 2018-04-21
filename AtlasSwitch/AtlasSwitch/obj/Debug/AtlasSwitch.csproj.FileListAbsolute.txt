@@ -9,3 +9,17 @@ C:\Users\john\Desktop\Atlas\AtlasSwitch\AtlasSwitch\AtlasSwitch\obj\Debug\AtlasS
 C:\Users\john\Desktop\Atlas\AtlasSwitch\AtlasSwitch\AtlasSwitch\obj\Debug\AtlasSwitch.csproj.GenerateResource.Cache
 C:\Users\john\Desktop\Atlas\AtlasSwitch\AtlasSwitch\AtlasSwitch\obj\Debug\AtlasSwitch.exe
 C:\Users\john\Desktop\Atlas\AtlasSwitch\AtlasSwitch\AtlasSwitch\obj\Debug\AtlasSwitch.pdb
+C:\Users\John Paradise\Desktop\Atlas\AtlasSwitch\AtlasSwitch\bin\Debug\AtlasSwitchDatabase.mdf
+C:\Users\John Paradise\Desktop\Atlas\AtlasSwitch\AtlasSwitch\bin\Debug\AtlasSwitchDatabase_log.ldf
+C:\Users\John Paradise\Desktop\Atlas\AtlasSwitch\AtlasSwitch\bin\Debug\Quotes.mdf
+C:\Users\John Paradise\Desktop\Atlas\AtlasSwitch\AtlasSwitch\bin\Debug\Quotes_log.ldf
+C:\Users\John Paradise\Desktop\Atlas\AtlasSwitch\AtlasSwitch\bin\Debug\AtlasSwitch.exe.config
+C:\Users\John Paradise\Desktop\Atlas\AtlasSwitch\AtlasSwitch\bin\Debug\AtlasSwitch.exe
+C:\Users\John Paradise\Desktop\Atlas\AtlasSwitch\AtlasSwitch\bin\Debug\AtlasSwitch.pdb
+C:\Users\John Paradise\Desktop\Atlas\AtlasSwitch\AtlasSwitch\obj\Debug\AtlasSwitch.csprojResolveAssemblyReference.cache
+C:\Users\John Paradise\Desktop\Atlas\AtlasSwitch\AtlasSwitch\obj\Debug\AtlasSwitch.MainPage.resources
+C:\Users\John Paradise\Desktop\Atlas\AtlasSwitch\AtlasSwitch\obj\Debug\AtlasSwitch.Properties.Resources.resources
+C:\Users\John Paradise\Desktop\Atlas\AtlasSwitch\AtlasSwitch\obj\Debug\AtlasSwitch.csproj.GenerateResource.cache
+C:\Users\John Paradise\Desktop\Atlas\AtlasSwitch\AtlasSwitch\obj\Debug\AtlasSwitch.csproj.CoreCompileInputs.cache
+C:\Users\John Paradise\Desktop\Atlas\AtlasSwitch\AtlasSwitch\obj\Debug\AtlasSwitch.exe
+C:\Users\John Paradise\Desktop\Atlas\AtlasSwitch\AtlasSwitch\obj\Debug\AtlasSwitch.pdb
