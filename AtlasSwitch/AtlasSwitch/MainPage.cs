@@ -16,5 +16,12 @@ namespace AtlasSwitch
         {
             InitializeComponent();
         }
+
+        private void QtsBtn_Click(object sender, EventArgs e)
+        {
+            Quotes qtswin = new Quotes();
+            qtswin.MdiParent = this;
+            qtswin.Show();
+        }
     }
 }
